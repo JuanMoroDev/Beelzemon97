@@ -69,6 +69,17 @@ End-to-end platform for managing technical operations in industrial maintenance 
 * Cloud deployment in Azure
 * Automated CI/CD pipeline
 
+🔗 [System overview and screenshots](https://github.com/Beelzemon97/SICRY)
+
+---
+
+## 🗂️ Other Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [AI-SED-PCB](https://github.com/Beelzemon97/AI-SED-PCB) | 2-layer PCB with an STM32 running a TinyML model that diagnoses bearing faults from vibration (AI-SED 2026 competition) | STM32 · C · TensorFlow · Proteus |
+| [CPU](https://github.com/Beelzemon97/CPU) | Microprogrammed 8-bit processor and x86-style ALU | Logisim-evolution |
+
 ---
 
 ## 📊 Engineering Metrics
@@ -94,6 +105,6 @@ End-to-end platform for managing technical operations in industrial maintenance 
 
 ## 🤝 Contact
 
-* LinkedIn: (https://www.linkedin.com/in/juan-alfonso-moroyoqui-delgadillo-12b32b334/?skipRedirect=true)
+* LinkedIn: [Juan Alfonso Moroyoqui Delgadillo](https://www.linkedin.com/in/juan-alfonso-moroyoqui-delgadillo-12b32b334/)
 
 ---
