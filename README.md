@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/JuanMoroDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=600&lines=.NET+Backend+%26+Full+Stack+Developer;ASP.NET+Core+%C2%B7+.NET+MAUI+%C2%B7+Azure;Embedded+AI+%C2%B7+PCB+design+%C2%B7+STM32" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=600&lines=.NET+Developer+%26+Electronics+%2F+Semiconductors;ASP.NET+Core+%C2%B7+.NET+MAUI+%C2%B7+Azure;Semiconductors+%C2%B7+Digital+design+%C2%B7+PCB;Embedded+AI+on+STM32" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,14 +13,17 @@
 
 ## 🧠 About me
 
-Software developer specialized in the **.NET ecosystem**. I design and deliver **end-to-end solutions** for real industrial environments, from the REST API and the database to the desktop and mobile apps that crews use in the field.
+I work on both sides of the stack: **software** and **electronics**.
 
-I also work closer to the hardware: I designed a PCB that runs a **TinyML model on an STM32** to diagnose bearing faults from vibration.
+- 💻 **Software**: .NET developer who designs and delivers **end-to-end solutions** for real industrial environments, from the REST API and the database to the desktop and mobile apps that crews use in the field.
+- ⚡ **Electronics & semiconductors**: specializing in **semiconductors**, with hands-on work in PCB design, digital logic and embedded AI. I designed a PCB that runs a **TinyML model on an STM32** to diagnose bearing faults from vibration.
+
+**Right now**
 
 - 🔭 Building **SICRY**, a maintenance management platform in production for an irrigation district
 - 🔌 Working on **AI-SED-PCB**, embedded AI for predictive maintenance (AI-SED 2026)
+- 🔬 Studying **semiconductors** and getting into digital design with **Verilog**
 - 🌱 Learning **Angular** to round out my full-stack skills
-- ☁️ Deepening cloud-native development on **Azure**
 
 ---
 
@@ -43,12 +46,15 @@ I also work closer to the hardware: I designed a PCB that runs a **TinyML model 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Embedded & hardware**
+**Electronics, semiconductors & embedded**
 
+![Semiconductors](https://img.shields.io/badge/Semiconductors-6E40C9?style=flat-square)
+![Digital logic](https://img.shields.io/badge/Digital_logic-Logisim-1F6FEB?style=flat-square)
+![Verilog](https://img.shields.io/badge/Verilog-learning-6E40C9?style=flat-square)
+![PCB design](https://img.shields.io/badge/PCB_design-Proteus-1F6FEB?style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-PCB_design-1F6FEB?style=flat-square)
 
 ---
 
