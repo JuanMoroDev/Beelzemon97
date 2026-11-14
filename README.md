@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-alfonso-moroyoqui-delgadillo-12b32b334/"><img src="https://img.shields.io/badge/LinkedIn-Juan_Moroyoqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
+  <a href="https://www.linkedin.com/in/juan-alfonso-moroyoqui-delgadillo-12b32b334/"><img src="https://img.shields.io/badge/LinkedIn-Juan_Moroyoqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/ITESCA-Postgraduate_in_Semiconductors-6E40C9?style=for-the-badge" alt="ITESCA, postgraduate in semiconductors" />
+</p>
 
 ---
 
@@ -16,13 +18,14 @@
 I work on both sides of the stack: **software** and **electronics**.
 
 - 💻 **Software**: .NET developer who designs and delivers **end-to-end solutions** for real industrial environments, from the REST API and the database to the desktop and mobile apps that crews use in the field.
-- ⚡ **Electronics & semiconductors**: specializing in **semiconductors**, with hands-on work in PCB design, digital logic and embedded AI. I designed a PCB that runs a **TinyML model on an STM32** to diagnose bearing faults from vibration.
+- ⚡ **Electronics & semiconductors**: postgraduate student in **Semiconductors** at **ITESCA**, with hands-on work in PCB design, digital logic and embedded AI. With the **ITESCA PCB Lab** team I designed a PCB that runs a **TinyML model on an STM32** to diagnose bearing faults from vibration.
 
 **Right now**
 
 - 🔭 Building **SICRY**, a maintenance management platform in production for an irrigation district
-- 🔌 Working on **AI-SED-PCB**, embedded AI for predictive maintenance (AI-SED 2026)
-- 🔬 Studying **semiconductors** and getting into digital design with **Verilog**
+- 🎓 Postgraduate studies in **Semiconductors** at ITESCA (Instituto Tecnológico Superior de Cajeme)
+- 🔌 Working on **AI-SED-PCB** with the ITESCA PCB Lab team, embedded AI for predictive maintenance (AI-SED 2026)
+- 🔬 Getting into digital design with **Verilog**
 - 🌱 Learning **Angular** to round out my full-stack skills
 
 ---
@@ -75,7 +78,15 @@ End-to-end platform that digitizes maintenance operations for the Distrito de Ri
 
 ### [AI-SED-PCB](https://github.com/JuanMoroDev/AI-SED-PCB): Embedded-AI bearing-fault diagnosis
 
-5 × 5 cm two-layer board with an STM32F411, a digital accelerometer and an ESP32-C3. A TinyML classifier (MLP, 1,332 parameters) detects bearing faults from vibration with **100% accuracy on unseen load data**; the C inference pipeline matches Python on 9,215 windows.
+**ITESCA PCB Lab** project for **AI-SED 2026** (AI Smart Electronic Design), developed as part of my postgraduate studies in semiconductors.
+
+- **Hardware**: 5 × 5 cm two-layer board with an STM32F411, an IIS3DWB vibration accelerometer and an ESP32-C3 for Wi-Fi / Bluetooth. Routed with 0 DRC errors, with Gerber files and bill of materials ready for fabrication.
+- **AI model**: TinyML classifier (MLP, 1,332 parameters) that tells a healthy bearing from inner-race, ball and outer-race faults, with **100% accuracy on unseen load data**.
+- **Firmware**: C inference pipeline identical to Python on 9,215 windows, simulated on the STM32 in Proteus VSM (16/16 correct).
+
+<p align="center">
+  <a href="https://github.com/JuanMoroDev/AI-SED-PCB"><img src="https://raw.githubusercontent.com/JuanMoroDev/AI-SED-PCB/main/docs/placa_ruteada.png" width="45%" alt="AI-SED routed PCB" /></a>
+</p>
 
 ### More
 
