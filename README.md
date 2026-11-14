@@ -1,110 +1,87 @@
-<h1 align="center">Juan Moroyoqui</h1>
-<h3 align="center">.NET Backend & Full Stack Developer | ASP.NET Core | MAUI | Azure</h3>
+<h1 align="center">Hi, I'm Juan Moroyoqui 👋</h1>
 
 <p align="center">
-  Building scalable, production-ready systems end-to-end
+  <a href="https://github.com/JuanMoroDev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=600&lines=.NET+Backend+%26+Full+Stack+Developer;ASP.NET+Core+%C2%B7+.NET+MAUI+%C2%B7+Azure;Embedded+AI+%C2%B7+PCB+design+%C2%B7+STM32" alt="Typing SVG" />
+  </a>
 </p>
 
----
-
-## 🧠 Profile
-
-Software developer specialized in the .NET ecosystem with experience designing and delivering **end-to-end solutions** for real-world industrial environments.
-
-Strong focus on **backend architecture, API design, and cloud deployment**, combined with cross-platform application development using .NET MAUI.
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-alfonso-moroyoqui-delgadillo-12b32b334/"><img src="https://img.shields.io/badge/LinkedIn-Juan_Moroyoqui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
 ---
 
-## ⚙️ Core Expertise
+## 🧠 About me
 
-* **Backend Development**
+Software developer specialized in the **.NET ecosystem**. I design and deliver **end-to-end solutions** for real industrial environments, from the REST API and the database to the desktop and mobile apps that crews use in the field.
 
-  * ASP.NET Core (Web API)
-  * Entity Framework Core
-  * Mapster (object mapping)
-  * JWT Authentication & Role-Based Authorization
+I also work closer to the hardware: I designed a PCB that runs a **TinyML model on an STM32** to diagnose bearing faults from vibration.
 
-* **Application Development**
-
-  * .NET MAUI (Mobile & Desktop)
-  * Field-data capture systems
-  * Offline-friendly workflows
-
-* **Cloud & DevOps**
-
-  * Azure App Service
-  * Azure SQL Database
-  * CI/CD pipelines with GitHub Actions
-
-* **System Design**
-
-  * RESTful architecture
-  * Relational database modeling
-  * File handling (multipart/form-data, media storage)
+- 🔭 Building **SICRY**, a maintenance management platform in production for an irrigation district
+- 🔌 Working on **AI-SED-PCB**, embedded AI for predictive maintenance (AI-SED 2026)
+- 🌱 Learning **Angular** to round out my full-stack skills
+- ☁️ Deepening cloud-native development on **Azure**
 
 ---
 
-## 🏗️ Featured Project
+## 🛠️ Tech stack
 
-### SICRY — Industrial Maintenance Management System
+**Backend & cloud**
 
-End-to-end platform for managing technical operations in industrial maintenance environments.
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Architecture Highlights:**
+**Apps**
 
-* REST API built with ASP.NET Core
-* Secure authentication using JWT and role-based access
-* Modular design for scalability and maintainability
+![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Applications:**
+**Embedded & hardware**
 
-* Desktop supervision system (user, asset, and report management)
-* Mobile app for field technicians (reporting + multimedia evidence)
-
-**Key Capabilities:**
-
-* Assignment tracking and operational workflows
-* Technical report generation
-* Media upload (photos, videos, documents)
-* Cloud deployment in Azure
-* Automated CI/CD pipeline
-
-🔗 [System overview and screenshots](https://github.com/Beelzemon97/SICRY)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-PCB_design-1F6FEB?style=flat-square)
 
 ---
 
-## 🗂️ Other Projects
+## 🏗️ Featured projects
+
+### [SICRY](https://github.com/JuanMoroDev/SICRY): Industrial Maintenance Management System
+
+End-to-end platform that digitizes maintenance operations for the Distrito de Riego del Río Yaqui irrigation district.
+
+- **API**: ASP.NET Core, EF Core, JWT with role-based access, Azure SQL, Blob Storage for evidence
+- **Desktop app** (.NET MAUI) for supervisors: dashboard, assignments, catalogs and reports
+- **Mobile app** (.NET MAUI) for field technicians: tasks and technical reports
+- **DevOps**: Azure App Service with CI/CD on GitHub Actions
+
+<p align="center">
+  <a href="https://github.com/JuanMoroDev/SICRY"><img src="https://raw.githubusercontent.com/JuanMoroDev/SICRY/main/docs/screenshots/dashboard.png" width="85%" alt="SICRY dashboard" /></a>
+</p>
+
+### [AI-SED-PCB](https://github.com/JuanMoroDev/AI-SED-PCB): Embedded-AI bearing-fault diagnosis
+
+5 × 5 cm two-layer board with an STM32F411, a digital accelerometer and an ESP32-C3. A TinyML classifier (MLP, 1,332 parameters) detects bearing faults from vibration with **100% accuracy on unseen load data**; the C inference pipeline matches Python on 9,215 windows.
+
+### More
 
 | Project | Description | Stack |
 |---|---|---|
-| [AI-SED-PCB](https://github.com/Beelzemon97/AI-SED-PCB) | 2-layer PCB with an STM32 running a TinyML model that diagnoses bearing faults from vibration (AI-SED 2026 competition) | STM32 · C · TensorFlow · Proteus |
-| [CPU](https://github.com/Beelzemon97/CPU) | Microprogrammed 8-bit processor and x86-style ALU | Logisim-evolution |
+| [CPU](https://github.com/JuanMoroDev/CPU) | Microprogrammed 8-bit processor and x86-style ALU | Logisim-evolution |
 
 ---
 
-## 📊 Engineering Metrics
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Beelzemon97&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JuanMoroDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=JuanMoroDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Beelzemon97&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📌 Current Focus
-
-* Designing scalable backend architectures in .NET
-* I’m currently learning Angular Framework to strengthen my full-stack skill set.
-* Improving performance and maintainability of distributed systems
-* Deepening knowledge in cloud-native development with Azure
-
----
-
-## 🤝 Contact
-
-* LinkedIn: [Juan Alfonso Moroyoqui Delgadillo](https://www.linkedin.com/in/juan-alfonso-moroyoqui-delgadillo-12b32b334/)
-
----
